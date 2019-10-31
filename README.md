@@ -6,9 +6,9 @@ comandos basicos de git para poder integrar github y gitlab
 #### También puede cargar archivos existentes desde su computadora utilizando las instrucciones a continuación.
 
 ## Configuración global de Git
-  git config --global user.name "Mrvalem"
+  git config --global user.name "Name"
   
-  git config --global user.email "mylovepre16@gmail.com"
+  git config --global user.email "name@gmail.com"
 
 ## crear un nuevo repositorio
 
